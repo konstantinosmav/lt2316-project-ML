@@ -5,4 +5,4 @@ The aim of this project is to classify movie scripts into genres and compare the
 
 A Drive link, where I have uploaded the movie scripts, can be found [here][1].
 
-[1]:https://drive.google.com/drive/u/2/my-drive
+[1]:https://drive.google.com/file/d/1OYZSCmsYX4dqUXqvKJWOeJjzL_sxrdO0/view?usp=sharing
